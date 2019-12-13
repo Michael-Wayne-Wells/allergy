@@ -1,8 +1,8 @@
-# _ _
+# _title_
 
-#### _  _
+#### _short description _
 
-#### By _**Michael Wells**_
+#### By _**name**_
 
 ## Description
 
@@ -16,11 +16,11 @@ _ _
 
 ## Setup/Installation Requirements
 
-* _Launch <https://michael-wayne-wells.github.io/(---------)> in your browser._
+* _Launch <https://url.io/(---------)> in your browser._
 ### OR ###
 * clone and open the file locally
 * _in terminal run:_
->$git clone https://github.com/Michael-Wayne-Wells/(------).git
+>$git clone https://url/(------).git
 * _open index.html in your browser._
 
 
@@ -31,7 +31,7 @@ _No known bugs_
 
 ## Support and contact details
 
-_If you have any issues with the program or want to reach out, email [mwells1286@gmail.com](href="mailto:mwells1286@gmail.com")_
+_If you have any issues with the program or want to reach out, email [mwells1286@gmail.com](href="mailto:email@email.com")_
 
 ## Technologies Used
 
@@ -42,4 +42,4 @@ _and was built on Atom_
 
 *Licensed under MIT license*
 
-Copyright (c) 2019 **_Michael Wells_**
+Copyright (c) 2019 **_name_**
