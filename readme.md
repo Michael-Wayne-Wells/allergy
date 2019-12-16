@@ -38,6 +38,7 @@ _If you have any issues with the program or want to reach out, email [mwells1286
 _This program utilized:_
 * _RUBY_
 _and was built on Atom_
+
 ### License
 
 *Licensed under MIT license*
