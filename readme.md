@@ -1,6 +1,6 @@
 # _Ruby Builder_
 
-#### _Ruby Project Creator _
+#### _Ruby Project Creator_
 
 #### By _**Michael Wells**_
 
@@ -11,13 +11,16 @@ This application builds a new ruby template for a project with or without the us
 
 clone and open the file locally
 in terminal run:
-$ git clone https://github.com/Michael-Wayne-Wells/anagrams.git
+
+>$ git clone https://github.com/Michael-Wayne-Wells/ruby_builder.git
 
 navigate to project folder and install gem bundles
-$ cd anagrams $ gem install bundler $ bundle install
+
+>$ cd anagrams $ gem install bundler $ bundle install
 
 run program script in terminal
-$ ruby anagrams_script.rb
+
+>$ ruby ruby_script.rb
 
 ## Known Bugs
 
