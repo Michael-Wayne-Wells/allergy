@@ -1,29 +1,23 @@
-# _title_
+# _Ruby Builder_
 
-#### _short description _
+#### _Ruby Project Creator _
 
-#### By _**name**_
+#### By _**Michael Wells**_
 
 ## Description
-
-_ _
-
-|Behavior|Input|Output|
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+This application builds a new ruby template for a project with or without the use of sinatra.
 
 ## Setup/Installation Requirements
 
-* _Launch <https://url.io/(---------)> in your browser._
-### OR ###
-* clone and open the file locally
-* _in terminal run:_
->$git clone https://url/(------).git
-* _open index.html in your browser._
+clone and open the file locally
+in terminal run:
+$ git clone https://github.com/Michael-Wayne-Wells/anagrams.git
 
+navigate to project folder and install gem bundles
+$ cd anagrams $ gem install bundler $ bundle install
 
+run program script in terminal
+$ ruby anagrams_script.rb
 
 ## Known Bugs
 
@@ -31,7 +25,7 @@ _No known bugs_
 
 ## Support and contact details
 
-_If you have any issues with the program or want to reach out, email [mwells1286@gmail.com](href="mailto:email@email.com")_
+_If you have any issues with the program or want to reach out, email [mwells1286@gmail.com](href="mailto:mwells1286@gmail.com")_
 
 ## Technologies Used
 
